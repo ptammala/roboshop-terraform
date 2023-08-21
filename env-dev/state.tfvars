@@ -1,3 +1,3 @@
 bucket = "tf-state-ptb74"
-key    = "terraform/tfstate"
+key    = "dev/terraform/tfstate"
 region = "us-east-1"
